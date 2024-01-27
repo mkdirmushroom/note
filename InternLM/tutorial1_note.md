@@ -1,4 +1,4 @@
-# 书生·浦语大模型 0
+# 书生·浦语大模型 hello world 笔记
 
 ### 环境配置&hello world
 

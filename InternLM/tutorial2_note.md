@@ -1,4 +1,4 @@
-# 基于 InternLM 和 LangChain构建知识库
+# 书生·浦语大模型 基于 InternLM 和 LangChain构建知识库 笔记
 
 ## 环境准备
 
@@ -285,7 +285,7 @@
     demo.launch()
 
 - 效果展示
-    ![Alt text](image.png)
+    ![Alt text](assets/image-lagent.png)
 
 
 
