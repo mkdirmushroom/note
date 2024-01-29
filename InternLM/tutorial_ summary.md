@@ -9,5 +9,5 @@
 - [第四期作业](https://github.com/mkdirmushroom/note/blob/main/InternLM/tutorial3_assignment.md)
 - [第五期笔记](https://github.com/mkdirmushroom/note/blob/main/InternLM/tutorial4_note.md)
 - [第五期作业](https://github.com/mkdirmushroom/note/blob/main/InternLM/tutorial4_assignment.md)
-- [第六期作业](https://github.com/mkdirmushroom/note/blob/main/InternLM/tutorial5_note.md)
-- [第六期笔记](https://github.com/mkdirmushroom/note/blob/main/InternLM/tutorial5_assignment.md)
+- [第六期笔记](https://github.com/mkdirmushroom/note/blob/main/InternLM/tutorial5_note.md)
+- [第六期作业](https://github.com/mkdirmushroom/note/blob/main/InternLM/tutorial5_assignment.md)
