@@ -67,7 +67,7 @@
 python run.py configs/eval_internlm2_chat_7b.py
 ```
 - 查看结果
-  ![运行结果](image.png)
+  ![运行结果](assets/image_compose.png)
 - 完整数据
   | Dataset                            | Version | Metric   | Mode | internlm2-chat-7b |
   |------------------------------------|---------|----------|------|------------------|
